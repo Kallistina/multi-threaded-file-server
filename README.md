@@ -1,6 +1,6 @@
 # 🌐 **Multi-Threaded File Server** 🚀
 
-This project is part of my university course on **Distributed Systems**. The goal of this project was to implement a **multi-threaded file server** capable of handling **multiple client requests** simultaneously. The server and clients communicate using **shared memory**, **semaphores**, and **pthreads**, ensuring efficient file access and parallel processing.
+This project is part of my university course Operating Systems (K22). The goal of this project was to implement a **multi-threaded file server** capable of handling **multiple client requests** simultaneously. The server and clients communicate using **shared memory**, **semaphores**, and **pthreads**, ensuring efficient file access and parallel processing.
 
 ## 📝 **Project Overview**
 
